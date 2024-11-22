@@ -1,6 +1,6 @@
 # Frontend Mentor - Bento grid
 
-## To check demo [click here](ahmed-abbe.github.io/Bento-grid/)
+## To check demo [click here](https://ahmed-abbe.github.io/Bento-grid/)
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
 
 ## Welcome! 👋
